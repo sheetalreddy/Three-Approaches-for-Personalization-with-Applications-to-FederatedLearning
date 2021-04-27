@@ -1,0 +1,7 @@
+tensorflow
+tensorflow-federated
+jupyterlab
+tensorboard
+nest_asyncio
+matplotlib
+numpy
